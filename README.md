@@ -19,7 +19,7 @@ Project ini adalah aplikasi Point of Sale (POS) yang dibuat untuk challenge Full
 ### 
 1️⃣ **Clone Repository**
 ```sh
-git clone <repo-url>
+git clone <https://github.com/Hzlnt21/POS-Challenge.git>
 cd pos-app
 
 2️⃣ Setup Backend
